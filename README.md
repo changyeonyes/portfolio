@@ -3,5 +3,6 @@
 https://medium.com/@hanhs3925/cloverfeed-40a53cbf1c17
 
 
-2.
+2. LAWBOT(AI 계약서 검토 서비스)
+   
 https://github.com/2024-Summer-BootCamp-TeamK
